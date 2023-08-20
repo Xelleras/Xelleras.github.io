@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":511.2,"scrollY":321}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":568,"scrollY":336.6666666666667},
+{"id":2,"expanded":false,"name":"Лево01","order":2,"parentId":0,"scrollX":1277.3333333333333,"scrollY":652}
 ]
